@@ -1,17 +1,14 @@
-# Future Projects Repository
+# Future Projects Repository!
 
 Welcome to the **Future Projects Repository**! This repository serves as a central hub for all my upcoming projects, experiments, and ideas. Here, I’ll be exploring new technologies, sharing creative solutions, and documenting my journey in coding and software development.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Project Roadmap](#project-roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Future Projects Repository!](#future-projects-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
 
 ## Introduction
 
